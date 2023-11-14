@@ -38,12 +38,13 @@ ul, ul.panel-body {
 }
 
 .message-row p {
-  /* flex: auto; */
+  flex: auto;
 }
 
 .me {
   /* justify-content: flex-end; */
-  flex-direction: row-reverse;      }
+  flex-direction: row-reverse;      
+}
 
 .me img{
   padding-right: 0;

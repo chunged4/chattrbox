@@ -4,8 +4,8 @@ var port = 3001;
 var ws = new WebSocketServer({
     port: port
 });
-var messages = [];
 
+var messages = [];
 console.log('websocket server started');
 
 ws.on('connection', function (socket) {
@@ -16,10 +16,12 @@ ws.on('connection', function (socket) {
     });
 
     socket.on('message', function (data) {
-        console.log('message received: ' + data);
         messages.push(data);
         ws.clients.forEach(function (clientSocket) {
-            clientSocket.send(data);
+            var obj = JSON.parse(data);
+            var str = JSON.stringify(obj);
+            console.log('message received: ' + str);
+            clientSocket.send(str);
         });
     });
 });
