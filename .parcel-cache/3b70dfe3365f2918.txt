@@ -3,7 +3,7 @@
 96C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\commoner\lib\watcher.js133437920323677014 0
 95C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\picomatch\package.json133425781590417307 0
 94C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\simple-concat\LICENSE133427493391207027 0
-72C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\package.json133438111009881538 0
+72C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\package.json133438734095776242 0
 92C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\set-function-length133427493406491470 1
 117C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\browserify\test\double_bundle_error\three.js133427493424338792 0
 95C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\browserify-rsa\LICENSE133427493390794484 0
@@ -5702,7 +5702,7 @@
 102C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\browserify\test\double_buffer133427493421318615 1
 105C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\browserify\test\double_bundle.js133427493417844958 0
 108C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\browserify\test\double_bundle_error133427493425925426 1
-88C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\scripts\src\ws-client.js133427496352971489 0
+88C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\scripts\src\ws-client.js133438181630467635 0
 111C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\browserify\test\double_bundle_error.js133427493417719816 0
 118C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\@babel\helper-module-imports\lib\index.js.map133427493406608578 0
 110C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\browserify\test\double_bundle_json.js133427493417768695 0
@@ -6513,7 +6513,7 @@
 107C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\@babel\traverse\node_modules\debug133427493404779974 1
 104C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\@babel\traverse\node_modules\ms133427493400722112 1
 113C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\@babel\traverse\node_modules\ms\index.js133427493393429590 0
-82C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\scripts\src\app.js133427513614214588 0
+82C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\scripts\src\app.js133438182355819097 0
 114C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\@babel\traverse\node_modules\ms\readme.md133427493401254939 0
 122C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\@babel\traverse\node_modules\globals\globals.json133427493393946652 0
 117C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\node_modules\@babel\core\lib\config\validation\options.js133427493415629361 0
@@ -6849,7 +6849,7 @@
 75C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\dist\src\app.js133437931265947220 0
 79C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\dist\src\app.js.map133437931266059984 0
 81C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\dist\dist\main.js.map133437931266059984 0
-74C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\index.html133427508434319526 0
+74C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\index.html133438112711959805 0
 75C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\stylesheets133427495858926377 1
 76C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\scripts\dist133438110915978942 1
 76C:\Users\edtur\OneDrive\Desktop\coding\javascript\chattrbox\app\scripts\temp133427495497029707 0

@@ -23,7 +23,7 @@ class ChatMessage {
         this.message = message;
         this.timestamp = timestamp;
     }
-    serialize() {
+    toObject() {
         return {
             user: this.user,
             message: this.message,
