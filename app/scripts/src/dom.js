@@ -1,9 +1,9 @@
 import $, { timers } from 'jquery';
-import md5 from 'crypto-js/md5';
+import sha256 from 'crypto-js/sha256';
 import moment from 'moment';
 
 function createGravatarUrl(username) {
-    let userhash = md5(username);
+    let userhash = sha256(username);
     return `https://www.gravatar.com/avatar/${userhash.toString()}`;
 }
 
